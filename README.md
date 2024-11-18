@@ -68,9 +68,17 @@ La sfârșitul jocului, Master-ul afișează scorurile finale ale ambilor jucăt
 
 ## Poze
 
+![4](https://github.com/user-attachments/assets/8c4df5d3-3da6-4caf-a5e5-4692c48dfa31)
+![3](https://github.com/user-attachments/assets/b7da0a99-2d88-468b-ab46-cf42b5d251e4)
+![2](https://github.com/user-attachments/assets/39198762-55cb-4aaa-b21b-2847f12c5dbf)
+![1](https://github.com/user-attachments/assets/14eac01e-5dac-4efe-a6da-10e1220d1748)
+
+
 ## Video
 
 Videoclipul poate fi văzut prin accesarea link-ului:
 [Video pe YouTube](https://www.youtube.com/shorts/xFW5oaAeDoQ)
 
 ## Schema Circuitului
+
+![WhatsApp Image 2024-11-18 at 15 39 30_5aace553](https://github.com/user-attachments/assets/9f94491c-1c9b-4338-a95c-b5df2c56458e)
