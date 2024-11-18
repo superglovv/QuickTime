@@ -251,16 +251,16 @@ void resetGame() {
 volatile char command = '\0';      // Variabilă pentru a stoca comanda primită prin SPI
 volatile bool newCommand = false; // Indicator pentru a marca o comandă nouă
 
-// Pines pentru butoanele jucătorilor
+// Pinii pentru butoanele jucătorilor
 const int player1ButtonsPin = A1; // Pinul pentru butoanele Jucătorului 1
 const int player2ButtonsPin = A0; // Pinul pentru butoanele Jucătorului 2
 
-// Pines pentru LED-urile Jucătorului 1
+// Pinii pentru LED-urile Jucătorului 1
 const int player1RedLEDPin = 5;
 const int player1GreenLEDPin = 6;
 const int player1BlueLEDPin = 7;
 
-// Pines pentru LED-urile Jucătorului 2
+// Pinii pentru LED-urile Jucătorului 2
 const int player2RedLEDPin = 2;
 const int player2GreenLEDPin = 3;
 const int player2BlueLEDPin = 4;
@@ -289,7 +289,7 @@ void setup() {
   pinMode(player1ButtonsPin, INPUT);
   pinMode(player2ButtonsPin, INPUT);
 
-  // Configurare pines pentru LED-uri
+  // Configurare pini pentru LED-uri
   pinMode(player1RedLEDPin, OUTPUT);
   pinMode(player1GreenLEDPin, OUTPUT);
   pinMode(player1BlueLEDPin, OUTPUT);
@@ -323,7 +323,7 @@ void loop() {
   }
 }
 
-// Funcție pentru pornirea unei provocări de apăsare a butonului
+// Funcție pentru pornirea unui joc
 void startButtonChallenge(char color) {
   Serial.print("Received: ");        // Afișează comanda primită pentru testare
   Serial.print((char)SPDR);
